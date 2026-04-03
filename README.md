@@ -377,6 +377,47 @@ pero siempre deja rastros."
 + Basado en señales
 + Extensible
 ```
+---
+
+## 📦 Requisitos
+
+* Python 3.9+
+* pip
+
+---
+
+## ⚙️ Instalación
+
+```bash
+# 1. Clonar repositorio
+git clone https://github.com/Makavellik/-Web-Intelligence-Core
+cd tu-repo
+
+# 2. Instalar dependencias
+pip install -r requirements.txt
+
+# 3. Instalar navegadores (Playwright)
+playwright install
+```
+
+---
+
+## 📄 requirements.txt
+
+```txt
+requests
+rich
+dnspython
+playwright
+```
+
+---
+
+## ▶️ Uso
+
+```bash
+python WebIntel.py
+```
 
 ---
 
