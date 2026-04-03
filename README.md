@@ -1,4 +1,4 @@
-# 🧠⚡ WEB INTELLIGENCE CORE v5
+# 🧠⚡ WEB INTELLIGENCE CORE 
 <p align="center">
   <sub>— Makaveli Core ∴ Web Intelligence</sub>
 </p>
